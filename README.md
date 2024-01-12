@@ -1,4 +1,4 @@
-# covid_tracker
+# ToDo APP
 
 A new Flutter project.
 
